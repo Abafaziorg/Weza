@@ -41,8 +41,8 @@ export const productDataTwo = [
     alt: 'Kota',
     name: 'K6',
     desc:
-      'Belgian chocolate glazed donuts covered in icing with sprinkles on top',
-    price: 'R9.99',
+      'Chips,Lettuce,Bacon,Cheese,Ham and Rib Patty',
+    price: 'R39.99',
     button: 'Order Now'
   },
   {
@@ -50,8 +50,8 @@ export const productDataTwo = [
     alt: 'Kota',
     name: 'K7',
     desc:
-      'Vanilla ice cream covered with caramel and chocolate glaze topped with a coco stick',
-    price: 'R12.99',
+      'Chips,Lettuce,Bacon,Cheese,Ham,Rib Patty and Russian',
+    price: 'R49.99',
     button: 'Order Now'
   },
   {
@@ -59,8 +59,8 @@ export const productDataTwo = [
     alt: 'kota',
     name: 'K8',
     desc:
-      'Double fudge brownie squares topped with white chocolate pieces and macadamia nuts',
-    price: 'R9.99',
+      'Chips,Lettuce,Bacon,Cheese,Ham, Double Cheese and Prego Steak',
+    price: 'R59.99',
     button: 'Order Now'
   }
 ];
